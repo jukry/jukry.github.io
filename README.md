@@ -1,2 +1,2 @@
-# [Loppuharkka](web-sivut_loppuharkka)
-# [ip address tracker](ip-address-tracker)
+# [Loppuharkka](https://jukry.github.io/web-sivut_loppuharkka/)
+# [ip address tracker](https://jukry.github.io/ip-address-tracker/)
